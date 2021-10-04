@@ -1,0 +1,12 @@
+/.DS_Store
+/.vscode
+/Controllers
+/DevContAPI.csproj
+/Program.cs
+/Properties
+/Startup.cs
+/WeatherForecast.cs
+/appsettings.Development.json
+/appsettings.json
+/bin
+/obj
